@@ -8,6 +8,7 @@
     "pages/baseWidget/DatePicker",
     "pages/baseWidget/Test",
     "pages/transferCase/PropsCase",
-    "pages/transferCase/LinkCase"
+    "pages/transferCase/LinkCase",
+    "pages/generalInfo/EventInfo"
   ]
 }

@@ -17,6 +17,7 @@ struct Index {
     { label: 'Test布局练习', path: 'pages/baseWidget/Test' },
     { label: 'prop单向数据传递', path: 'pages/transferCase/PropsCase' },
     { label: 'link双向数据传递', path: 'pages/transferCase/LinkCase' },
+    { label: '通用事件', path: 'pages/generalInfo/EventInfo' },
   ]
 
   build() {

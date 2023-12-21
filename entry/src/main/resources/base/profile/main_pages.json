@@ -1,14 +1,5 @@
 {
   "src": [
-    "pages/Index",
-    "pages/baseWidget/AlphabetIndexer",
-    "pages/baseWidget/Blank",
-    "pages/baseWidget/Checkbox",
-    "pages/baseWidget/DataPanel",
-    "pages/baseWidget/DatePicker",
-    "pages/baseWidget/Test",
-    "pages/transferCase/PropsCase",
-    "pages/transferCase/LinkCase",
-    "pages/generalInfo/EventInfo"
+    "pages/Index"
   ]
 }

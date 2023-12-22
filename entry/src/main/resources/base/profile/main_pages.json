@@ -1,5 +1,11 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Index",
+    "pages/workbenches/Index",
+    "pages/kitchen/Index",
+    "pages/selfCheck/Index",
+    "pages/earlyWarning/Index",
+    "pages/exerciseBook/Index",
+    "pages/exerciseBook/Test"
   ]
 }
